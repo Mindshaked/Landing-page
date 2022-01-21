@@ -1,0 +1,96 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.introduction {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.content {
+    display: flex;
+}
+
+
+
+.products {
+    display: flex;
+}
+
+.info-title {
+    display: flex;
+}
+
+.info-elements {
+    display: flex;
+}
+
+.element1-text {
+    display: flex;
+}
+
+.element2-text {
+    display: flex;
+}
+
+.element3-text {
+    display: flex;
+}
+
+.element4-text {
+    display: flex;
+}
+
+
+
+.testimonial {
+    display: flex;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    display: flex;
+}
+
+.author {
+    display:flex;
+}
+
+
+
+
+
+.last-section {
+    display: flex;
+}
+
+.last-section-left {
+    display: flex;
+}
+
+.ls-text {
+    display: flex;
+}
+
+.call-to-action {
+    display: flex;
+}
+
+.cta-text {
+    display: flex;
+}
+
+
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+}
